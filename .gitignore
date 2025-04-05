@@ -6,6 +6,7 @@ __pycache__/
 *.zip
 *.log
 
+data/
 input_data/
 output_data/
 figures/
